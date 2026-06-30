@@ -101,12 +101,9 @@ k2-order-service/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/k2-order-service.git
+git clone https://github.com/Vitalik1800/k2-order-service.git
 cd k2-order-service
 ```
-
-> Replace `<your-username>` with your GitHub username.
-
 ---
 
 ### 2️⃣ Create a virtual environment
