@@ -7,15 +7,15 @@ This project was developed as a technical assignment using FastAPI, SQLAlchemy, 
 ---
 
 ## ✨ Features
-👤 Create clients
-📦 Create products
-🛒 Create orders
-📋 Retrieve all orders for a specific client
-✅ Input data validation
-⚠️ Error handling
-📖 Interactive Swagger documentation
-🐳 Docker support
-🧪 Automated testing
+- **👤 Create clients**
+- **📦 Create products**
+- **🛒 Create orders**
+- **📋 Retrieve all orders for a specific client**
+- **✅ Input data validation**
+- **⚠️ Error handling**
+- **📖 Interactive Swagger documentation**
+- **🐳 Docker support**
+- **🧪 Automated testing**
 
 ## 🛠️ Technology Stack
 
