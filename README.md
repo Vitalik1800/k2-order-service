@@ -493,12 +493,12 @@ Python Developer
 
 📧 Feel free to contact me if you have any questions, suggestions, or feedback regarding this project.
 
-📌 Project Information
-🎯 Project: K2 ERP Order Service
-🏗️ Purpose: Test assignment
-🚀 Framework: FastAPI
-🗄️ Database: SQLite
-🐳 Containerized with: Docker
-🧪 Tested with: Pytest
+-**📌 Project Information**
+-**🎯 Project: K2 ERP Order Service**
+-**🏗️ Purpose: Test assignment**
+-**🚀 Framework: FastAPI**
+-**🗄️ Database: SQLite**
+-**🐳 Containerized with: Docker**
+-**🧪 Tested with: Pytest**
 
 ⭐ If you found this project useful, consider giving it a star on GitHub.
